@@ -1,0 +1,9 @@
+[47m  [47m  [47m  [46m  [47m  [47m  [47m  [47m  [47m  [47m  [0mprograms: name_program
+[47m  [47m  [46m  [47m  [46m  [46m  [46m  [47m  [47m  [47m  [0mversion: 0.0.1
+[46m  [46m  [46m  [46m  [46m  [46m  [46m  [46m  [47m  [47m  [0mdescription: opisanie
+[46m  [46m  [46m  [46m  [46m  [46m  [46m  [46m  [47m  [47m  [0mtags: tag1 tag2 tag3
+[46m  [46m  [43m  [43m  [43m  [46m  [46m  [43m  [43m  [43m  [0mpublisher: name_publisher
+[47m  [46m  [43m  [43m  [43m  [43m  [43m  [43m  [43m  [43m  [0msite: https://
+[47m  [47m  [43m  [43m  [43m  [43m  [43m  [43m  [43m  [43m  [0mnumer_download: 1111
+[47m  [47m  [47m  [43m  [43m  [43m  [47m  [43m  [47m  [47m  [0mdownload: download_command
+[47m  [47m  [47m  [47m  [47m  [47m  [47m  [47m  [47m  [47m  [0mupdate: update_command
